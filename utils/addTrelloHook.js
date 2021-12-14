@@ -14,7 +14,7 @@ const body = {
   idModel: TRELLO_LIST_ID
 }
 
-fetch(`https://api.trello.com/1/tokens/${TRELLO_TOKEN}/webhooks/?key=${TRELLO_KEY}`, {
+fetch(`https://api.trello.com/1/tokens/${69d442c37e3bfb27ad25a556cf01db1a80b32318a9c11deb9da932c207c43266}/webhooks/?key=${a8c7c05c44b5fdc86d8e266900061ac6}`, {
     method: 'post',
     body: JSON.stringify(body),
     headers: { 'Content-Type': 'application/json' },
