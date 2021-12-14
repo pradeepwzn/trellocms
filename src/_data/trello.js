@@ -5,7 +5,7 @@ const fetch = require('node-fetch');
 require('dotenv').config();
 const {
   TRELLO_BOARD_URL='https://trello.com/b/n7ggwrak/gsarctest',
-  TRELLO_LIST_ID='61b80b7a7645c41387ddfab4',
+  TRELLO_LIST_ID='61b80b7a7645c41387ddfab5',
   BRANCH } = process.env;
 
 
