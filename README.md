@@ -1,4 +1,4 @@
-# Hello Trello
+# Hello World
 
 A little experiment to pull content from the Trello API and use it to populate content on a simple web site.
 
