@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 // With public fallbacks for happier onboarding
 require('dotenv').config();
 const {
-  TRELLO_BOARD_URL='https://trello.com/b/Zzc0USwZ/hellotrello',
+  TRELLO_BOARD_URL='https://trello.com/b/rVn5ROBR/gsarccms',
   TRELLO_LIST_ID='5e98325d6d6bd120f2b7395f',
   BRANCH } = process.env;
 
